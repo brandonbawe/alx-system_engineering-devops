@@ -1,0 +1,1 @@
+This folder contains bash scripts to print out various commands.
